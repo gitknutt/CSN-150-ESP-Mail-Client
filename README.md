@@ -2,7 +2,7 @@
 
 ## This library is now deprecared and no longer maintained. 
 
- ## You should use[ReadyMail](https://github.com/mobizt/ReadyMail) instead. 
+ ## You should use [ReadyMail](https://github.com/mobizt/ReadyMail) instead. 
 
  [![ReadyMail Logo](https://raw.githubusercontent.com/mobizt/ReadyMail/refs/heads/main/resources/images/logo.svg)](https://github.com/mobizt/ReadyMail)
 
