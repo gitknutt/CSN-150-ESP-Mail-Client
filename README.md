@@ -1,4 +1,4 @@
-## [Deprecated]
+## ⚠️ DEPRECATED ⚠️
 
 ## This library is now deprecared and no longer maintained. 
 
